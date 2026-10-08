@@ -1,4 +1,4 @@
-Desacoplamento total do TTEA de qualquer interface de jogo.\ 
+Desacoplamento total do TTEA de qualquer interface de jogo.\
 Assets para a tela de calibração inclusos, mas a implementação e uso fica por conta própria dos desenvolvedores.\
 Esse sistema utiliza um cliente UDP que envia a posição dos pés para um servidor. 
 
